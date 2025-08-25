@@ -329,11 +329,11 @@ const TermsConditions: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a 
-                href="tel:+15145550123" 
+                href="tel:+15144300262" 
                 className="inline-flex items-center text-blue-600 hover:text-blue-700 font-medium"
               >
                 <Phone className="h-4 w-4 mr-2" />
-                (514) 555-0123
+                (514) 430-0262
               </a>
               <a 
                 href="mailto:info@jjmecanique.ca" 
