@@ -208,7 +208,7 @@ const Footer: React.FC = () => {
         {/* Logos moyens de paiement - TAILLE RÉDUITE */}
         <div className="mt-8">
           <div className="text-center mb-4">
-            <h5 className="text-lg font-semibold text-red-400 mb-4">Moyens de paiement acceptés</h5>
+            <h5 className="text-lg font-semibold text-red-400 mb-4">Modes de Paiement acceptés</h5>
             <div className="flex justify-center items-center space-x-3">
               {/* Visa - Plus petit */}
               <div className="w-10 h-6 bg-gradient-to-r from-amber-400 to-amber-500 rounded flex items-center justify-center shadow-md">
