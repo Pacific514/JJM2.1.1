@@ -196,6 +196,7 @@ const Footer: React.FC = () => {
         {/* Logo Entreprise Québécoise */}
         <div className="mt-8 text-center">
           <div className="inline-flex items-center justify-center p-4 bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-xl border border-gray-700/30 shadow-xl">
+            <h5 className="text-lg font-semibold text-red-400 mb-4">Entreprise Québécoise</h5>
             <img 
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Quebec_flag.png/960px-Quebec_flag.png" 
               alt="Entreprise Québécoise" 
@@ -207,7 +208,7 @@ const Footer: React.FC = () => {
         {/* Logos moyens de paiement - TAILLE RÉDUITE */}
         <div className="mt-8">
           <div className="text-center mb-4">
-            <h4 className="text-lg font-semibold text-red-400 mb-4">Moyens de paiement acceptés</h4>
+            <h5 className="text-lg font-semibold text-red-400 mb-4">Moyens de paiement acceptés</h5>
             <div className="flex justify-center items-center space-x-3">
               {/* Visa - Plus petit */}
               <div className="w-10 h-6 bg-gradient-to-r from-amber-400 to-amber-500 rounded flex items-center justify-center shadow-md">
