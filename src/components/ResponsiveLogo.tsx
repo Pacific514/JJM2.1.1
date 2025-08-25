@@ -12,7 +12,7 @@ const ResponsiveLogo: React.FC<ResponsiveLogoProps> = ({ className = '' }) => {
   return (
     <div className={`flex items-center ${className}`}>
       <img
-        src="https://i.ibb.co/21M7d2BR/LOGO-JJ-MECANIQUE.png"
+        src="https://i.ibb.co/1fP4qqYB/LOGO-JJ-MECANIQUE.png"
         alt="JJ Mécanique - Pneus et mécanique mobile"
         className="h-8 sm:h-10 md:h-12 w-auto object-contain"
         style={{
