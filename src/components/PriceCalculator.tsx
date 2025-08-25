@@ -1219,7 +1219,7 @@ const PriceCalculator: React.FC = () => {
                       
                       <div className="flex justify-between text-sm mb-2">
                         <span className="text-gray-600 dark:text-gray-400">
-                          {t('calc.travel.cost')} ({safeToFixed(distance)} km × 0,61$)
+                          {t('calc.travel.cost')} ({safeToFixed(distance)} km × 0,76$)
                         </span>
                         <span className="font-medium text-gray-900 dark:text-white">
                           {safeToFixed(calculateTravelCost())}$
