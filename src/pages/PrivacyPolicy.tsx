@@ -130,7 +130,7 @@ const PrivacyPolicy: React.FC = () => {
               href="tel:+15145550123"
               className="bg-gray-600 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition-colors font-semibold"
             >
-              (514) 555-0123
+              (514) 430-0262
             </a>
           </div>
         </motion.div>
