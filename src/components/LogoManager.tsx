@@ -13,7 +13,7 @@ const LogoManager: React.FC = () => {
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   // Logo par défaut et logo actuel
-  const defaultLogo = "https://static.lumi.new/e5/e5fec81e2a72d5284b07d2c7ca256c9d.webp";
+  const defaultLogo = "https://i.ibb.co/21M7d2BR/LOGO-JJ-MECANIQUE.png";
   const currentLogo = localStorage.getItem('customLogo') || defaultLogo;
 
   const handleFileSelect = async (file: File) => {
