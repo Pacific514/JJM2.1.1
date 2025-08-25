@@ -48,7 +48,7 @@ const HeroSlider: React.FC = () => {
       subtitleEn: "Fast and secure installation",
       descriptionFr: "Service complet de changement de pneus saisonniers. Installation professionnelle, balancement et vérification de la pression inclus.",
       descriptionEn: "Complete seasonal tire change service. Professional installation, balancing and pressure check included.",
-      image: "https://github.com/Pacific514/JJM2.1.1/blob/main/src/tires-D.jpg",
+      image: "https://images.pexels.com/photos/6870331/pexels-photo-6870331.jpeg?auto=compress&cs=tinysrgb&w=1920",
       ctaFr: "Réserver maintenant",
       ctaEn: "Book now",
       ctaLink: "/service-booking",
