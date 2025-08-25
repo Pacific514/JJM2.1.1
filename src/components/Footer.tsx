@@ -193,20 +193,9 @@ const Footer: React.FC = () => {
           </div>
         </div>
 
-        {/* Logo Entreprise Québécoise */}
-        <div className="mt-8 text-center">
-           <h5 className="text-lg font-semibold text-blue-400 mb-5">Entreprise Québécoise</h5>
-          <div className="inline-flex items-center justify-center p-4 bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-xl border border-gray-700/30 shadow-xl">
-            <img 
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Quebec_flag.png/960px-Quebec_flag.png" 
-              alt="Entreprise Québécoise" 
-              className="h-12"
-            />
-          </div>
-        </div>
-
         {/* Logos moyens de paiement - TAILLE RÉDUITE */}
         <div className="mt-8">
+           <div className="inline-flex items-center justify-center p-4 bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-xl border border-gray-700/30 shadow-xl">
           <div className="text-center mb-4">
             <h5 className="text-lg font-semibold text-red-400 mb-4">Modes de Paiement acceptés</h5>
             <div className="flex justify-center items-center space-x-3">
@@ -232,6 +221,7 @@ const Footer: React.FC = () => {
             </div>
           </div>
         </div>
+           </div>
 
         {/* Liens légaux et copyright avec cœur animé */}
         <div className="border-t border-gray-700/50 mt-8 pt-8">
