@@ -197,7 +197,6 @@ const Footer: React.FC = () => {
         <div className="mt-8 text-center">
            <h5 className="text-lg font-semibold text-blue-400 mb-5">Entreprise Québécoise</h5>
           <div className="inline-flex items-center justify-center p-4 bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-xl border border-gray-700/30 shadow-xl">
-            <h5 className="text-lg font-semibold text-red-400 mb-4">Entreprise Québécoise</h5>
             <img 
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Quebec_flag.png/960px-Quebec_flag.png" 
               alt="Entreprise Québécoise" 
