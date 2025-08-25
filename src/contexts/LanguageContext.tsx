@@ -194,7 +194,7 @@ const translations = {
     'footer.services.title': 'Nos Services',
     'footer.contact.info': 'Informations',
     'footer.follow': 'Suivez-nous',
-    'footer.copyright': '© 2025 JJ Mécanique Mobile. Tous droits réservés.',
+    'footer.copyright': '© 2025 JJ Mécanique Mobile.',
     'footer.newsletter.title': 'Infolettre',
     'footer.newsletter.description': 'Recevez nos dernières nouvelles et offres spéciales',
     'footer.newsletter.email': 'Votre adresse email',
