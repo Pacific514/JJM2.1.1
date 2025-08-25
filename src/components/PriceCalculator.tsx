@@ -1087,7 +1087,7 @@ const PriceCalculator: React.FC = () => {
                     <div className="mt-2 p-2 bg-gradient-to-r from-green-50 to-green-100 dark:from-green-900/20 dark:to-green-800/20 border border-green-200 dark:border-green-700 rounded-xl backdrop-blur-sm">
                       <p className="text-sm text-green-700 dark:text-green-400">
                         ✅ {language === 'fr' ? 'Distance calculée' : 'Calculated distance'}: <strong>{safeToFixed(distance)} km</strong><br/>
-                        💰 {language === 'fr' ? 'Frais de déplacement' : 'Travel fees'}: <strong>{safeToFixed(calculateTravelCost())}$ CAD</strong> (0,61$/km)
+                        💰 {language === 'fr' ? 'Frais de déplacement' : 'Travel fees'}: <strong>{safeToFixed(calculateTravelCost())}$ CAD</strong> (0,76$/km)
                       </p>
                     </div>
                   )}
