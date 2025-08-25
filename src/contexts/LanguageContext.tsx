@@ -102,8 +102,8 @@ const translations = {
     // Home Page - Section avantages
     'home.advantages.title': 'Pourquoi nous choisir?',
     'home.advantages.subtitle': 'Des avantages qui font la différence',
-    'home.advantage.mobile.title': 'Service résidentiel et commercial',
-    'home.advantage.mobile.desc': 'Service dans un rayon de 100 KM',
+    'home.advantage.mobile.title': 'Mécanique Mobile',
+    'home.advantage.mobile.desc': 'Dans un rayon de 100 KM',
     'home.advantage.fast.title': 'Intervention Rapide',
     'home.advantage.fast.desc': 'Service dans les 72 heures',
     'home.advantage.quality.title': 'Garantie qualité',
@@ -415,7 +415,7 @@ const translations = {
     // Home Page - Section avantages EN ANGLAIS
     'home.advantages.title': 'Why Choose Us?',
     'home.advantages.subtitle': 'Advantages that make the difference',
-    'home.advantage.mobile.title': 'Residential and commercial service',
+    'home.advantage.mobile.title': 'Mobile mechanic',
     'home.advantage.mobile.desc': 'Mobile service within a 100 KM radius',
     'home.advantage.fast.title': 'Fast Intervention',
     'home.advantage.fast.desc': 'Service within 72 hours',
