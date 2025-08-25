@@ -232,7 +232,7 @@ const Footer: React.FC = () => {
               <i className="fas fa-heart text-red-500 mx-1 animate-pulse" style={{
                 animation: 'heartbeat 1.5s ease-in-out infinite'
               }}></i>
-              {' '}par Lumi & Jimmy © 2025 JJ Mécanique. Tous droits réservés.
+              {' '}par Lumi & Jimmy © 2025 JJ Mécanique.
             </p>
             
             {/* Liens légaux */}
