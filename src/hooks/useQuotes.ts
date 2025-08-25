@@ -73,7 +73,7 @@ export const useQuotes = () => {
       }, 0);
       
       const safeDistance = safeNumber(distance);
-      const travelCost = Math.min(safeDistance * 0.61, 55); // Maximum 55$
+      const travelCost = Math.min(safeDistance * 0.76, 76); // Maximum 76$
       const servicesTotal = subtotal + travelCost;
       const taxes = servicesTotal * 0.14975; // TPS 5% + TVQ 9.975%
       const total = servicesTotal + taxes;
