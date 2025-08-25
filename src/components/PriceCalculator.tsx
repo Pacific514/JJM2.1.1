@@ -258,7 +258,7 @@ const PriceCalculator: React.FC = () => {
               const exactDistanceKm = distanceInMeters / 1000;
               
               console.log(`✅ Distance EXACTE Google Maps: ${exactDistanceKm.toFixed(2)} km`);
-              console.log(`💰 Frais calculés: ${(exactDistanceKm * 0.61).toFixed(2)}$`);
+              console.log(`💰 Frais calculés: ${(exactDistanceKm * 0.76).toFixed(2)}$`);
               
               return Math.round(exactDistanceKm * 100) / 100; // Précision 2 décimales
             }
@@ -280,7 +280,7 @@ const PriceCalculator: React.FC = () => {
       const exactDistance = calculateHaversineUltraPrecise(WORKSHOP_COORDINATES, customerCoords);
       
       console.log(`✅ Distance Haversine précise: ${exactDistance.toFixed(2)} km`);
-      console.log(`💰 Frais: ${(exactDistance * 0.61).toFixed(2)}$`);
+      console.log(`💰 Frais: ${(exactDistance * 0.76).toFixed(2)}$`);
       
       return Math.round(exactDistance * 100) / 100; // Précision 2 décimales
       
