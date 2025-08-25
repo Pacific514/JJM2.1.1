@@ -68,7 +68,7 @@ const translations = {
     
     // Service Booking
     'booking.title': 'Réservation de Service',
-    'booking.subtitle': 'Réservez votre service automobile mobile',
+    'booking.subtitle': 'Réservez votre service mobile',
     'booking.select.service': 'Sélectionnez votre service',
     'booking.select.date': 'Choisissez une date',
     'booking.select.time': 'Choisissez un créneau',
@@ -101,7 +101,7 @@ const translations = {
     
     // Home Page - Section avantages
     'home.advantages.title': 'Pourquoi nous choisir?',
-    'home.advantages.subtitle': 'Des avantages qui font la différence',
+    'home.advantages.subtitle': 'Des avantages qui font une différence',
     'home.advantage.mobile.title': 'Mécanique Mobile',
     'home.advantage.mobile.desc': 'Dans un rayon de 100 KM',
     'home.advantage.fast.title': 'Intervention Rapide',
