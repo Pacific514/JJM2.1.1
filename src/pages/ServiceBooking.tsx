@@ -923,7 +923,7 @@ const ServiceBooking: React.FC = () => {
                     </div>
                   </div>
                   <p className="text-xs text-gray-500 mt-2">
-                    American Express n'est pas accepté
+                    *American Express n'est pas accepté.
                   </p>
                 </div>
 
@@ -1012,7 +1012,7 @@ const ServiceBooking: React.FC = () => {
                   <div className="flex items-center">
                     <CheckCircle className="h-5 w-5 text-green-600 mr-2" />
                     <span className="text-sm text-green-700 dark:text-green-400 font-medium">
-                      Paiement sécurisé par SSL via Square
+                      Paiement sécurisé par chiffrement SSL 256 bits selon la conformité PCI.
                     </span>
                   </div>
                 </div>
