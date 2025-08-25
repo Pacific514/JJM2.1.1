@@ -507,7 +507,7 @@ const translations = {
     'footer.services.title': 'Our Services',
     'footer.contact.info': 'Information',
     'footer.follow': 'Follow us',
-    'footer.copyright': '© 2025 JJ Mobile Mechanics. All rights reserved.',
+    'footer.copyright': '© 2025 JJ MECANIQUE.',
     'footer.newsletter.title': 'Newsletter',
     'footer.newsletter.description': 'Receive our latest news and special offers',
     'footer.newsletter.email': 'Your email address',
