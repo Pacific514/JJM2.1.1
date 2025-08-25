@@ -93,7 +93,7 @@ const Contact: React.FC = () => {
                       {t('contact.phone.title')}
                     </h3>
                     <a href="tel:+15145550123" className="text-blue-600 hover:text-blue-800 text-lg font-medium">
-                      (514) 555-0123
+                      (514) 430-0262
                     </a>
                     <p className="text-sm text-gray-500 dark:text-gray-400">
                       {t('contact.phone.available')}
