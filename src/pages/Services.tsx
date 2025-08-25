@@ -142,8 +142,8 @@ const Services: React.FC = () => {
                 </h2>
                 <p className="text-xl text-white/90 mb-10 max-w-2xl mx-auto">
                   {language === 'fr' 
-                    ? 'Contactez-nous dès maintenant pour un service professionnel et personnalisé'
-                    : 'Contact us now for professional and personalized service'
+                    ? 'Contactez-nous dès maintenant pour un service personnalisé'
+                    : 'Contact us now for a personalized service'
                   }
                 </p>
                 <div className="flex flex-col sm:flex-row gap-6 justify-center">
