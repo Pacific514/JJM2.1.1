@@ -108,8 +108,8 @@ const translations = {
     'home.advantage.fast.desc': 'Service dans les 72 heures',
     'home.advantage.quality.title': 'Garantie qualité',
     'home.advantage.quality.desc': 'Travail garanti et assuré',
-    'home.advantage.certified.title': 'Professionnels certifiés',
-    'home.advantage.certified.desc': 'Techniciens expérimentés et qualifiés',
+    'home.advantage.certified.title': 'Options pièces',
+    'home.advantage.certified.desc': 'On recherche pour vous!',
     
     // Home Page - Section CTA
     'home.cta.title': 'Prêt à réserver votre service ?',
@@ -421,8 +421,8 @@ const translations = {
     'home.advantage.fast.desc': 'Service within 72 hours',
     'home.advantage.quality.title': 'Quality guarantee',
     'home.advantage.quality.desc': 'Guaranteed and insured work',
-    'home.advantage.certified.title': 'Certified professionals',
-    'home.advantage.certified.desc': 'Experienced and qualified technicians',
+    'home.advantage.certified.title': 'Parts options',
+    'home.advantage.certified.desc': 'We are looking for you!',
     
     // Home Page - Section CTA
     'home.cta.title': 'Ready to book your service?',
