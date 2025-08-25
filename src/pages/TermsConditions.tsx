@@ -68,7 +68,7 @@ const TermsConditions: React.FC = () => {
               <div className="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg border border-blue-200 dark:border-blue-700">
                 <h3 className="font-semibold text-blue-900 dark:text-blue-300 mb-2">{t('terms.contact.info')}</h3>
                 <ul className="text-blue-800 dark:text-blue-400 space-y-1">
-                  <li><strong>{t('contact.phone.title')} :</strong> (514) 555-0123</li>
+                  <li><strong>{t('contact.phone.title')} :</strong> (514) 430-0262</li>
                   <li><strong>Email :</strong> info@jjmecanique.ca</li>
                   <li><strong>{t('contact.service.zone.title')} :</strong> {language === 'fr' ? 'Grand Montréal et environs (rayon de 100 km)' : 'Greater Montreal and surroundings (100 km radius)'}</li>
                 </ul>
