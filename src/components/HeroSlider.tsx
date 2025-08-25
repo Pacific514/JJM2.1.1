@@ -34,7 +34,7 @@ const HeroSlider: React.FC = () => {
       subtitleEn: "Professional service at your location",
       descriptionFr: "Nos mécaniciens mobile se déplacent avec tout l'équipement nécessaire pour diagnostiquer et réparer votre véhicule.",
       descriptionEn: "Our mobile mechanics come with all the necessary equipment to diagnose and repair your vehicle.",
-      image: "https://images.pexels.com/photos/190574/pexels-photo-190574.jpeg?auto=compress&cs=tinysrgb&w=1920",
+      image: "https://i.ibb.co/6J4FvnGH/46212975-m.jpg?auto=compress&cs=tinysrgb&w=1920",
       ctaFr: "Prendre rendez-vous",
       ctaEn: "Book appointment",
       ctaLink: "/service-booking",
