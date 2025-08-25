@@ -75,7 +75,7 @@ const ServiceBooking: React.FC = () => {
   const [paymentCompleted, setPaymentCompleted] = useState(false);
 
   // Adresse de l'atelier (confidentielle)
-  const WORKSHOP_ADDRESS = "10424 Av. de Bruxelles, Montréal, QC";
+  const WORKSHOP_ADDRESS = "10424 Av. de Bruxelles Montréal, QC H1H 4R3";
 
   // Créneaux de 3 heures (8h-18h, 7 jours/7)
   const timeSlots = [
