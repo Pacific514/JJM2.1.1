@@ -422,7 +422,7 @@ const translations = {
     'home.advantage.quality.title': 'Quality guarantee',
     'home.advantage.quality.desc': 'Guaranteed and insured work',
     'home.advantage.certified.title': 'Parts options',
-    'home.advantage.certified.desc': 'We are looking for you!',
+    'home.advantage.certified.desc': 'We search it for you!',
     
     // Home Page - Section CTA
     'home.cta.title': 'Ready to book your service?',
