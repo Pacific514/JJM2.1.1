@@ -193,36 +193,6 @@ const Footer: React.FC = () => {
           </div>
         </div>
 
-        {/* Logos moyens de paiement - TAILLE RÉDUITE */}
-        <div className="mt-8">
-           <div className="inline-flex items-center justify-center p-4 bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-xl border border-gray-700/30 shadow-xl">
-          <div className="text-center mb-4">
-            <h5 className="text-lg font-semibold text-red-400 mb-4">Modes de Paiement acceptés</h5>
-            <div className="flex justify-center items-center space-x-3">
-              {/* Visa - Plus petit */}
-              <div className="w-10 h-6 bg-gradient-to-r from-amber-400 to-amber-500 rounded flex items-center justify-center shadow-md">
-                <span className="text-white text-xs font-bold">VISA</span>
-              </div>
-              
-              {/* Mastercard - Plus petit */}
-              <div className="w-10 h-6 bg-gradient-to-r from-amber-400 to-amber-500 rounded flex items-center justify-center shadow-md">
-                <span className="text-white text-xs font-bold">MC</span>
-              </div>
-              
-              {/* Interac Débit - Plus petit */}
-              <div className="w-10 h-6 bg-gradient-to-r from-amber-400 to-amber-500 rounded flex items-center justify-center shadow-md">
-                <span className="text-white text-xs font-bold">INT</span>
-              </div>
-              
-              {/* Argent comptant - Seulement icône dollar plus petite */}
-              <div className="w-10 h-6 bg-gradient-to-r from-amber-400 to-amber-500 rounded flex items-center justify-center shadow-md">
-                <DollarSign className="h-4 w-4 text-white" />
-              </div>
-            </div>
-          </div>
-        </div>
-           </div>
-
         {/* Liens légaux et copyright avec cœur animé */}
         <div className="border-t border-gray-700/50 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
