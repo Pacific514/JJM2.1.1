@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
           <div className="lg:col-span-1">
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 backdrop-blur-sm rounded-xl p-6 border border-gray-700/30 shadow-xl">
               <img
-                src="https://i.ibb.co/21M7d2BR/LOGO-JJ-MECANIQUE.png"
+                src="https://i.ibb.co/1fP4qqYB/LOGO-JJ-MECANIQUE.png"
                 alt="JJ Mécanique"
                 className="h-16 mb-4 object-contain"
               />
